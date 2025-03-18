@@ -90,8 +90,11 @@ Key Housekeeping tasks
 As a matter of practice, some standard tasks are done to finalize the dashboard.
 
 [1] Hiding unnecessary tables from report view so that user doesn’t have to interact with them.
+
 [2] Used tooltips with visuals to provide helpful information on the visual – see an example here
+
 [3] Formatting of the visuals for consistency. See example here for a tool tip used
+
 [4] Adding a “Clear All” filters button and use it as a bookmark for the “unfiltered” state of each tab. This way, the user can use the button to return the visuals to their original state.
 
 
