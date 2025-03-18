@@ -19,6 +19,27 @@ Objectives
 
 [5] Use the visuals to gather some insights into crime related data for the available period.
 
+Screenshots from Dashboard
+![OVERVIEW](https://github.com/user-attachments/assets/5a80256e-3f8e-4f79-9b0c-6a0b1493d84e)
+
+![INCIDENCE](https://github.com/user-attachments/assets/0080ec90-10c2-415b-8c87-816dac43027e)
+
+![Text Analytics](https://github.com/user-attachments/assets/ca35ec55-5ae2-488e-930d-ebb58006cef6)
+
+![Suburbs](https://github.com/user-attachments/assets/db3bae38-e130-4ee6-b40b-c22f77fd7ca9)
+
+![Check Suburb](https://github.com/user-attachments/assets/6e41a74e-9cd3-4ada-a43d-4a3cbea7ad05)
+
+![Financial Cost](https://github.com/user-attachments/assets/de13bdea-6b39-4f7c-869f-910def0d6034)
+
+
+
+
+
+
+
+
+
 Data Sources
 All the data used for this project was gathered from publicly available sources. Victoria Police has published crime related data both in https://www.data.vic.gov.au/ and https://www.police.vic.gov.au/crime-statistics. Data was gathered over the period 2016 till 2024. 
 
@@ -73,7 +94,5 @@ As a matter of practice, some standard tasks are done to finalize the dashboard.
 [3] Formatting of the visuals for consistency. See example here for a tool tip used
 [4] Adding a “Clear All” filters button and use it as a bookmark for the “unfiltered” state of each tab. This way, the user can use the button to return the visuals to their original state.
 
-
-![Tool Tip Example](https://github.com/user-attachments/assets/8f64cd85-dba3-4064-b18f-286cb1ef8da3)
 
 
