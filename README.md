@@ -1,4 +1,4 @@
-# PowerBIVictoriaCrime
+# PowerBI- Visualizing Crime Data from Victoria
 Data Visualization on Victoria Crimes Data using Power BI
 
 To view the visuals, please refer the PDF document which is the exported version of the .pbix created.
