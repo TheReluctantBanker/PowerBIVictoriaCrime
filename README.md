@@ -1,6 +1,8 @@
 # PowerBIVictoriaCrime
 Data Visualization on Victoria Crimes Data using Power BI
 
+To view the visuals, please refer the PDF document which is the exported version of the .pbix created.
+
 Background 
 Crime is a topic that matters to us all. Most of us are fortunate enough to be safe all the same, however that does not mean we let down our guard. We worry about our safety as well as the safety of our loved ones and the larger community that we are a part of.
 I thought of using the crime related data that Victoria Police publishes periodically for doing a data analysis and visualization project.
